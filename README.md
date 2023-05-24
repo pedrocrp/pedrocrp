@@ -16,7 +16,8 @@
  </div><br/>
 
 Passionate about technology and everything that the area of computer science offers us. Enthusiastic about machine learning related projects
-
+## Projects
+- [Airbnb Client Segmentation](https://github.com/pedrocrp/data_projects/tree/main/airbnb)
 ## Latest articles:
 - [Scrape multiple webpage with BeautifulSoup and Regex](https://medium.com/@pedrorp/scrape-multiple-webpage-with-beautifulsoup-and-regex-14a3ab21e570)<br/>
 
