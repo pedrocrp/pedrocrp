@@ -8,13 +8,13 @@
 Passionate about technology and everything that the area of computer science offers us. Enthusiastic about machine learning related projects
 
 ## Projects
-### Data Projects
+### [Data Projects](https://github.com/pedrocrp/data_projects)
 - [Tutorial de Feature Encoders](https://github.com/pedrocrp/data_projects/tree/main/feature_encoders_tutorial)
 - [Driver Sleeping Tracker](https://github.com/pedrocrp/data_projects/tree/main/driver_sleeping_tracker)
 - [Image processing and classification](https://github.com/pedrocrp/data_projects/tree/main/image_processing_and_classification)
 - [Airbnb Client Segmentation](https://github.com/pedrocrp/data_projects/tree/main/airbnb)
 
-### Probability and Statistics
+### [Probability and Statistics](https://github.com/pedrocrp/probability_and_statistics)
 - [Law of Large Numbers](https://github.com/pedrocrp/probability_and_statistics/tree/main/law_of_large_numbers)
 - [Central Limit Theorem](https://github.com/pedrocrp/probability_and_statistics/tree/main/central%20limit%20theorem)
   
